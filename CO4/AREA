@@ -23,7 +23,6 @@ Main
 import Graphics.*;
 public class Shape{
  public static void main(String []args){
-33
  Graphics testObj = new Graphics();
  testObj.rectangleArea(1,2);
  testObj.circleArea(10);
